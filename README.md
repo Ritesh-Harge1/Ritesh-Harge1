@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Ritesh Harge
 
-<!--
-**Ritesh-Harge1/Ritesh-Harge1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+Full Stack Developer skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Java**, and **SQL**. Passionate about building scalable web applications and solving challenging problems.  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages:** Java, JavaScript  
+- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- **Databases:** MongoDB, MySQL  
+- **Other Technologies:** RESTful APIs, JWT Authentication, DSA, Git, GitHub, Postman  
+- **Tools & Platforms:** VS Code, Git, GitHub Pages, MongoDB Atlas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Food Delivery App (MERN)** – Full-stack web application with menu, cart, orders, and responsive UI.  
+- **Blog Application (MERN)** – CRUD operations, authentication, and RESTful API integration.  
+- **Other Projects** – Explore my repositories for more MERN and Java projects.  
+
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/ritesh-harge-19814a248) | [Email](hargeritesh@gmail.com) | [CodeChef](https://www.codechef.com/users/ritesh_harge1)
