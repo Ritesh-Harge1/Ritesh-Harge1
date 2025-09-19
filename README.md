@@ -6,7 +6,7 @@ Full Stack Developer skilled in **MERN Stack (MongoDB, Express.js, React.js, Nod
 ## 🛠 Skills
 - **Programming Languages:** Java, JavaScript  
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- **Databases:** MongoDB, MySQL  
+- **Databases:** MongoDB, MySQL 
 - **Other Technologies:** RESTful APIs, JWT Authentication, DSA, Git, GitHub, Postman  
 - **Tools & Platforms:** VS Code, Git, GitHub Pages, MongoDB Atlas  
 
